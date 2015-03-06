@@ -10,4 +10,5 @@ public class TestGit{
 		this.name = name;
 	}
 	here is a error code can not be complie;
+	//add a document readme
 }
