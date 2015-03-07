@@ -1,4 +1,6 @@
 public class People{
+    private int age;
+
     public static void main(String [] a){
     	System.out.println("System is start!");
     }
