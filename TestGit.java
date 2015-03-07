@@ -9,7 +9,6 @@ public class TestGit{
 	public void setName(String name){
 		this.name = name;
 	}
-	here is a error code can not be complie;
 	//add a document readme
 	//A comment test for push remote
 }
