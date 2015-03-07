@@ -1,4 +1,14 @@
-public class People{
+public class People{	
+    private String name;
+
+    public void setName(String name){
+        this.name = name;
+    }
+
+    public String getName(){
+    	return this.name;
+    }
+
     public static void main(String [] a){
     	System.out.println("System is start!");
     }
