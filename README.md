@@ -1,6 +1,2 @@
-# git_repository
-git learn demo
-this time, edit with readme.md
-
-##markdown?
-1.teset markdown
+#记录算法学习中所有代码
+#java版
